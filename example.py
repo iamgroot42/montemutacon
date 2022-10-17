@@ -5,7 +5,7 @@ from mml.mcts.mcts_mutator import MctsMutator
 
 from mml.tables import mutations_table
 
-from utils.pipeline import Pipeline as CustomPipeline
+from mml.utils.pipeline import Pipeline as CustomPipeline
 
 import dill as pickle
 import pandas as pd

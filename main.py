@@ -1,6 +1,6 @@
 from mml.mutations import MutationEncoder
-from utils.features import EmberFeatures
-from utils.pipeline import Pipeline as CustomPipeline
+from mml.utils.features import EmberFeatures
+from mml.utils.pipeline import Pipeline as CustomPipeline
 
 from mml.mcts.mcts_mutator import MctsMutator
 from mml.mcts.simulation_policy import MctsSimulationPolicy
