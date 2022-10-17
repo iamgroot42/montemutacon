@@ -27,7 +27,7 @@ import sys
 
 # This table includes the available mutations along
 # with a predicate on whether they can be applied or not
-from tables import mutations_table
+from mml.tables import mutations_table
 
 """
 This is the full transformation pipeline, specific to the surrogate model. The

@@ -3,7 +3,7 @@ from mml.mcts.simulation_policy import MctsSimulationPolicy
 from mml.mcts.expansion_policy import MctsExpansionPolicy
 from mml.mcts.mcts_mutator import MctsMutator
 
-from tables import mutations_table
+from mml.tables import mutations_table
 
 from utils.pipeline import Pipeline as CustomPipeline
 

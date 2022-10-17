@@ -26,9 +26,9 @@ is yet another dependency that can be removed if you want to handle this
 differently.
 
 ## Installing
-To install all the dependancies:
+Install as a package
 ```
-conda env create -f environment.yml
+pip install .
 ```
 
 ## Usage
